@@ -13,6 +13,7 @@ Conocimientos y herramientas
 - Identificación y documentación de errores (Bug Reports).
 - Jira.
 - Postman.
+- Fork.
 - SQL.
 - Git y GitHub.
 
